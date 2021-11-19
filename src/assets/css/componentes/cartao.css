@@ -40,12 +40,12 @@
     line-height: 1.3rem;
 }
 
-.cartao-post--bem-estar {
-    border-color: var(--cor-categoria-bem-estar);
+.cartao-post--cabelos {
+    border-color: var(--cor-categoria-cabelos);
 }
 
-.cartao-post--comportamento {
-    border-color: var(--cor-categoria-comportamento);
+.cartao-post--pele{
+    border-color: var(--cor-categoria-pele);
 }
 
 .posts {

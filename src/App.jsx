@@ -6,6 +6,7 @@ import Sobre from "./paginas/Sobre";
 import Pagina404 from "./paginas/Pagina404";
 import Cabecalho from "./componentes/cabecalho";
 import Entrar from "./paginas/Entrar";
+import Produtos from "./paginas/Produtos";
 
 function App() {
   return (
@@ -20,6 +21,9 @@ function App() {
       </Route>
       <Route>
         <Entrar path='/entrar'/>
+      </Route>
+      <Route>
+        <Produtos path='/produtos'/>
       </Route>
       <Route>
         <Pagina404/>

@@ -1,72 +1,80 @@
 {
   "categorias": [
     {
-      "id": "bem-estar",
-      "nome": "bem-estar",
-      "subcategorias": ["higiene", "saude"]
+      "id": "cabelos",
+      "nome": "cabelos",
+      "subcategorias": ["cuidados", "coloracao"]
     },
     {
-      "id": "comportamento",
-      "nome": "comportamento",
-      "subcategorias": ["treinamento", "educacao"]
+      "id": "pele",
+      "nome": "pele",
+      "subcategorias": ["maquiagem", "produtos"]
     }
   ],
   "posts": [
     {
       "id": 1,
-      "title": "Banho no cão",
-      "metadescription": "Use as utensilios certos para banhar seu cão",
-      "body": "A maioria dos cães prefere pular a hora do banho, mas o banho desempenha um papel importante na saúde do pelo e da pele do seu cão, ajudando a mantê-lo limpo e livre de sujeira e parasitas. Ter os produtos certos pode ajudá-lo a se sentir mais confortável.",
-      "categoria": "bem-estar",
-      "subcategoria": "higiene"
+      "title": "Hidratação Capilar",
+      "metadescription": "Use os produtos certos para hidratar seu cabelo",
+      "body": "A hidratação é a etapa do cronograma capilar responsável por devolver a água e os nutrientes aos fios. A hidratação capilar é especialmente indicada quando sentimos o cabelo ressecado, opaco, sem movimento, com pontas duplas e quebradiços.",
+      "categoria": "cabelos",
+      "subcategoria": "cuidados"
     },
     {
       "id": 2,
-      "title": "Seu cachorro merece um tapete higiênico",
-      "metadescription": "O banheiro que seu cachorro merece",
-      "body": "Os tapetes higiênicos são uma inovação do mercado pet, perfeitos para que seu cão faça suas necessidades com conforto e sem sujar a casa. São produtos descartáveis ou laváveis que garantem conforto ao animal.",
-      "categoria": "bem-estar",
-      "subcategoria": "higiene"
+      "title": "Nutrição Capilar",
+      "metadescription": "A nutrição que seu cabelo merece",
+      "body": "A nutrição capilar consiste na reposição de lipídios (gorduras) que compõem o fio. Ela é indicada, principalmente, para pessoas que possuem algum tipo de química, tintura ou alisamento no cabelo. Algumas características dos fios podem indicar a necessidade de nutrir o cabelo.",
+      "categoria": "cabelos",
+      "subcategoria": "cuidados"
     },
     {
       "id": 3,
-      "title": "Época de pulgas?",
-      "metadescription": "É necessário evitar que seus animais sejam afetados por esses parasitas",
-      "body": "Não é a mordida, mas a reação alérgica a ela que faz seu cão coçar. Alguns animais de estimação são hipersensíveis a pulgas e podem sofrer uma reação severa com apenas uma única mordida. No entanto, todos os animais de estimação sentirão desconforto em caso de picadas de pulgas. Portanto, assim que você vir arranhões repetidos, suspeite de pulgas.",
-      "categoria": "bem-estar",
-      "subcategoria": "saude"
+      "title": "Cor viva nas madeixas",
+      "metadescription": "É necessário tomar certos cuidados para quem usa tinturas.",
+      "body": "Evite produtos que têm sulfato na composição, já que esse ingrediente age como adstringente e resseca os fios. O ideal é apostar em linhas próprias para cabelos tingidos",
+      "categoria": "cabelos",
+      "subcategoria": "coloracao"
     },
     {
       "id": 4,
-      "title": "Uma onda de pets estressados",
+      "title": "Preparar a pele antes da maquigem",
       "metadescription": "A mudança de rotina pode ser o maior fator",
-      "body": "Eles começaram a contar com a atenção extra incluindo todos aqueles novos cachorrinhos que esperam que estejamos por perto, mas com mais pessoas voltando ao escritório ou saindo de férias, os cães vão sentir a ausência mais do que nunca, criando uma pandemia de ansiedade entre nossos cães, para a qual podemos não estar preparados.",
-      "categoria": "comportamento",
-      "subcategoria": "educacao"
+      "body": "Preparar a pele é essencial para manter a maquiagem durante o maior tempo possível e para que, mesmo com todos os produtos que irá receber, ela permaneça saudável e bonita. Além disso, remover toda a maquiagem ao fim do dia com os produtos corretos é fundamental para evitar a obstrução dos poros, que pode ocasionar cravos e espinhas. Confira algumas dicas que a ADCOS preparou para você cuidar da sua pele antes e após a maquiagem!.",
+      "categoria": "pele",
+      "subcategoria": "maquiagem"
     },
     {
       "id": 5,
-      "title": "Como treinar seu cachorro para parar de ter medo",
-      "metadescription": "A socialização é um grande fator nesse aprendizado",
-      "body": "Ensinar um cachorro a parar de ter medo só pode ser feito aumentando sua autoconfiança. Isso significa mudar a forma como sua mente reage em certas situações e transformar associações negativas em positivas. Fazer isso requer muita paciência e uma série de exposições controladas ao evento ou objeto temido, mas a uma distância suficiente para que o cão não se sinta ansioso.",
-      "categoria": "comportamento",
-      "subcategoria": "educacao"
+      "title": "Você sabe remover a maquiagem corretamente?",
+      "metadescription": "Pequenas mudanças fazem grande diferença",
+      "body": " Você já deve ter cansado de ouvir que é essencial remover a maquiagem todos os dias, certo? Se dormir maquiada, irá obstruir seus poros e terá problemas com acne. Os danos ainda se estendem aos cílios, que podem ficar ressecados, quebradiços e até mesmo cair.",
+      "categoria": "pele",
+      "subcategoria": "maquiagem"
     },
     {
       "id": 6,
-      "title": "Por que os gatos rosnam?",
-      "metadescription": "Rosnando é um ruído de aviso",
-      "body": "Uma coisa que os cientistas sabem com certeza é que a parte do cérebro do gato que controla as vocalizações está muito conectada à parte do cérebro que controla as emoções do gato. Portanto, o que o gato está “dizendo” é absolutamente uma percepção de como ele está se sentindo.",
-      "categoria": "comportamento",
-      "subcategoria": "treinamento"
+      "title": "Hidrate seu rosto",
+      "metadescription": "Pele ressecada não é bom sinal",
+      "body": "Ter uma pele bem hidratada evita que a maquiagem fique com aquele efeito craquelado, por isso é importante aplicar um hidratante, de preferência sem óleos e que não cause obstrução dos poros, antes de se maquiar. A produção de óleo é um processo natural do nosso corpo que ocorre com a função de hidratação e proteção da pele. No entanto, se não aplicarmos o hidratante antes da maquiagem, a pele fica seca e produz ainda mais óleo para compensar, gerando uma aparência brilhosa indesejada.",
+      "categoria": "pele",
+      "subcategoria": "produtos"
     },
     {
       "id": 7,
-      "title": "Como treinar um gato",
-      "metadescription": "Sim! Você pode treinar um gato e é muito mais fácil do que você pensava",
-      "body": "Normalmente usado como ferramentas de treinamento para uma ampla variedade de animais, um clicker custará apenas alguns dólares e ajudará você a dar um reforço positivo quando estiver aprendendo a treinar um gato. (Você também pode usar uma caneta comum com um botão de clique - o importante é ter um ruído distinto que possa fazer instantaneamente.) A maior parte do treinamento do gato envolve oferecer a seu gato uma guloseima que ele goste após um clique para marcar o comportamento desejado.",
-      "categoria": "comportamento",
-      "subcategoria": "treinamento"
+      "title": "O filtro solar",
+      "metadescription": "Sim! sua pele precisa disso.",
+      "body": "O uso do filtro solar diariamente também é imprescindível, inclusive anteriormente à maquiagem. Se você preferir uma opção prática e eficaz, use filtros tonalizantes que protegem a sua pele dos efeitos nocivos dos raios UV e oferecem ótima cobertura. Além disso, a aplicação de um primer ajuda a uniformizar a pele, fechar os poros e fixar a maquiagem por mais tempo.",
+      "categoria": "pele",
+      "subcategoria": "produtos"
+    },
+    {
+      "id": 8,
+      "title": "Cronograma Capilar",
+      "metadescription": "Saiba o que seu cabelo pede!",
+      "body": "O método do cronograma capilar, possibilita a identificação das fragilidades dos fios de cabelo, para então apontar a melhor maneira para tratar. E tudo orientado pela agenda pré-determinada. Para cada dia, é suprida a necessidade diversa do cabelo.",
+      "categoria": "cabelos",
+      "subcategoria": "cuidados"
     }
   ]
 }
