@@ -1,0 +1,28 @@
+
+.form{
+    padding: 2rem;
+    margin: 5rem 30% 0 30%;
+    font-weight: bold;
+    background: rgb(217,63,251);
+    background: radial-gradient(circle, rgba(217,63,251,1) 0%, rgba(236,0,140,0.5217437316723564) 49%);
+
+}
+.form-input{
+    line-height: 2rem;
+    border-radius: 1rem;
+    display: block;
+    width: 100%;
+    margin-bottom: 2rem;
+    
+}
+.form label{
+    margin-top: 2rem;
+}
+
+.form-input--entrar{
+    padding: 0.5rem 2rem 0.5rem 2rem;
+    border-radius: 2rem;
+    background-color: var(--cor-contraste-claro);
+    position: relative;
+    left: 13rem;
+}

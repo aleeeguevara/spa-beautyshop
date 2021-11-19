@@ -1,0 +1,19 @@
+.pagina-imagem {
+  width: 100%;
+  max-width: 29rem;
+  margin-top: 3rem;
+  margin-left: 12rem;
+  margin-bottom: 2rem;
+}
+
+.naoencontrado-texto {
+  font-size: var(--fonte-tamanho-cartao-titulo);
+  color: var(--cor-terciaria);
+  margin-top: 2rem;
+  margin-left: 15rem;
+  font-family: var(--fonte-familia-titulo-pagina);
+}
+
+.naoencontrado-link {
+  color: var(--cor-primaria);
+}
