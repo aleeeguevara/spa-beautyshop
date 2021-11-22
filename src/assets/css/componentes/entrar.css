@@ -4,7 +4,8 @@
     margin: 5rem 30% 0 30%;
     font-weight: bold;
     background: rgb(217,63,251);
-    background: radial-gradient(circle, rgba(217,63,251,1) 0%, rgba(236,0,140,0.5217437316723564) 49%);
+    background: radial-gradient(circle, rgb(199, 41, 235) 0%, rgba(245, 0, 147, 0.685) 49%);
+    border: white solid;
 
 }
 .form-input{
@@ -12,17 +13,21 @@
     border-radius: 1rem;
     display: block;
     width: 100%;
+    margin-top: 5px;
     margin-bottom: 2rem;
+    color: #050e3d;
     
 }
 .form label{
     margin-top: 2rem;
+    color: white;
+   
 }
 
 .form-input--entrar{
-    padding: 0.5rem 2rem 0.5rem 2rem;
+    padding: 5px 15px 5px 15px;
     border-radius: 2rem;
     background-color: var(--cor-contraste-claro);
     position: relative;
-    left: 13rem;
+    left: 14rem;
 }

@@ -23,6 +23,7 @@
     --cor-primaria: #e459e9;
     --cor-secundaria: #e67bb6;
     --cor-terciaria: #901c54;
+    --cor-azul-escuro: #050e3d;
     --cor-contraste-escuro: #4D4D4D;
     --cor-contraste-claro: #fff;
     --cor-batom: #ec008c;
@@ -30,8 +31,8 @@
     --cor-aviso: #df2525;
     --cor-sucesso: #46bb42;
 
-    --cor-categoria-cabelos: #673ab7;
-    --cor-categoria-pele: #971fc7;
+    --cor-categoria-cabelos: #9e24f0;
+    --cor-categoria-pele: #cb06ddd7;
 
     --sombra: 0 5px 10px #1f011d38;
 }

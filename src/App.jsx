@@ -7,6 +7,8 @@ import Pagina404 from "./paginas/Pagina404";
 import Cabecalho from "./componentes/cabecalho";
 import Entrar from "./paginas/Entrar";
 import Produtos from "./paginas/Produtos";
+import Post from "./paginas/Post";
+import Categoria from "./paginas/Categoria";
 
 function App() {
   return (
@@ -19,11 +21,17 @@ function App() {
       <Route path='/sobre'>
         <Sobre />
       </Route>
-      <Route>
-        <Entrar path='/entrar'/>
+      <Route path='/categoria/:id'>
+        <Categoria />
       </Route>
-      <Route>
-        <Produtos path='/produtos'/>
+      <Route path='/posts/:id'>
+        <Post/>
+        </Route>
+      <Route path='/entrar'>
+        <Entrar />
+      </Route>
+      <Route path='/produtos'>
+        <Produtos/>
       </Route>
       <Route>
         <Pagina404/>

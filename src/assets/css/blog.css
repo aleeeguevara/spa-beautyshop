@@ -12,13 +12,13 @@
     padding: 1rem;
 }
 
-.lista-categorias__categoria--bem-estar {
+.lista-categorias__categoria--cabelos {
     color: var(--cor-contraste-claro);
-    background-color: var(--cor-categoria-bem-estar);
+    background-color: var(--cor-categoria-cabelos);
 }
 
-.lista-categorias__categoria--comportamento {
+.lista-categorias__categoria--pele{
     color: var(--cor-contraste-claro);
-    background-color: var(--cor-categoria-comportamento);
+    background-color: var(--cor-categoria-pele);
 }
 

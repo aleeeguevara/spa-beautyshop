@@ -3,7 +3,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500&family=Pacifico&display=swap');
 
 body {
-	background: linear-gradient(90deg, rgba(230,123,182,1) 44%, rgba(217,63,251,1) 68%);
+	background-color:var(--cor-azul-escuro);
 	color: var(--cor-contraste-escuro);
 	font-family: var(--fonte-familia-corpo);
 }

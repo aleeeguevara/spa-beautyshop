@@ -36,6 +36,7 @@
 .cabecalho__titulo {
     font-family: var(--fonte-familia-logo);
     font-size: var(--fonte-tamanho-logo);
+    color: var(--cor-azul-escuro);
     margin-left: .5rem;
 }
 
@@ -90,7 +91,7 @@
 }
 
 .menu-item--entrar {
-    background-color: var(--cor-batom);
+    background-color: var(--cor-azul-escuro);
     color: var(--cor-contraste-claro);
     border: none;
 }
